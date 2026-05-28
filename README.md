@@ -1,4 +1,4 @@
-# 🚀 Problem Solving Practice (C++)
+# 🎯 Problem Solving Practice (C++)
 
 Welcome to my repository dedicated to tracking my progress and growth in competitive programming and problem-solving! 
 

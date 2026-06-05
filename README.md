@@ -6,4 +6,6 @@ I created this repository as a personal milestone and a visual log of my learnin
 
 * **Purpose:** Tracking my learning progress and development in Data Structures & Algorithms.
 * **Language:** C++ (Standard Template Library - STL)
-* **Platforms:** [LeetCode](https://leetcode.com/u/lowkeyuknowme/) (and more to come!)
+* **Platforms:** LeetCode (and more to come!)
+
+👉 **[Click here to check out my LeetCode profile!](https://leetcode.com/u/lowkeyuknowme/)**

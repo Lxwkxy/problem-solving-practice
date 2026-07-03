@@ -1,0 +1,18 @@
+#include <vector>
+#include <unordered_set>
+using namespace std;
+
+class Solution {
+public:
+    int minimumOperations(vector<int>& nums) {
+        unordered_set<int> mySet;
+
+        for (int num : nums) {
+            if (num > 0) {
+                mySet.insert(num);
+            }
+        }
+
+        return mySet.size();
+    }
+};
